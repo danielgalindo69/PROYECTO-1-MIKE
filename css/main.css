@@ -42,6 +42,10 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a.activo {
+  color: #049fed;
+}
+
 nav ul li a:hover {
     color: skyblue;
 }
